@@ -44,7 +44,7 @@ list2.add(777);
  list1.addAll(list2);
  System.out.println(list1);
 System.out.println("github deneme");
-	
+	System.out.println("github deneme 1");
 	}
 
 }
